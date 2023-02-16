@@ -1,0 +1,21 @@
+{ 
+  "description": "This unique piece is a one-of-a-kind digital artwork created by Scar Face that combines a calm young man.  this artwork is a true reflection of the artist's vision and creativity. As an NFT, this piece is authenticated on the blockchain, making it a valuable and irreplaceable asset. Don't miss your chance to own a piece of digital art history and add this stunning creation to your collection.",
+  "external_url": "https://scontent.flos1-2.fna.fbcdn.net/v/t39.30808-6/322219076_591755799453286_2619274044380972838_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGjYcothQTAQ5lxfyXB4vBJe7rMJnv6M7B7uswme_ozsHCnepwN96CRFK9MyDAm0ca4Hn3NeoVe0HfASYNiO1jz&_nc_ohc=-iTiAQdpFwgAX-2txWw&_nc_zt=23&_nc_ht=scontent.flos1-2.fna&oh=00_AfBZyO-_A2PHegrb-DgUyzWhjhMBr1TpSLfEUuQ0i1cG7A&oe=63F1EE17",
+  "image": "https://ipfs.io/ipfs/QmWkr6ZYwCy6hvyiUcu8FGTNuPisKYNgmKiCLnbhfcwTbh?filename=photo_2023-01-15_22-11-21.jpg",
+  "name": "ScarFace", 
+  "attributes": [
+    {
+        "trait_type": "Realistic",
+        "value": "Definitely"
+
+  },
+    {
+      "trait_type": "Height", 
+      "value": "7.4"
+    },
+    {
+      "trait_type": "Eye Color", 
+      "value": "Blue"
+    }
+]
+  }
